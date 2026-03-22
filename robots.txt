@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gerakl-mify.vercel.app/sitemap.xml
